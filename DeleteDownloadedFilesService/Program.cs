@@ -10,6 +10,7 @@ namespace DeleteDownloadedFilesService
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

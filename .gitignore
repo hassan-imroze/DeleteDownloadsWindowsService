@@ -3,3 +3,5 @@
 ################################################################################
 
 /DeleteDownloadedFilesService/bin/Debug
+/DeleteDownloadedFilesService/obj/Debug
+/packages
