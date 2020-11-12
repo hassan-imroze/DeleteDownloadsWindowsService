@@ -23,7 +23,7 @@ namespace DeleteDownloadedFilesService
 
                 x.SetServiceName("DeleteOlderDownloadFiles");
                 x.SetDisplayName("Delete Download Files");
-                x.SetDescription("Delete downloaded files older than 15 days from downloads folder and archive them");
+                x.SetDescription("Delete downloaded files older than 16 days from downloads folder and archive them");
 
             });
 
